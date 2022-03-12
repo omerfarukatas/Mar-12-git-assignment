@@ -8,4 +8,5 @@
     <li>Poodles</li>
     <li>Chihuahua</li>
     <li>Alaskan Malamute</li>
+    <li>Golden Retriever</li>
 </ol>
