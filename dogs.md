@@ -7,4 +7,5 @@
     <li>Pugs</li>
     <li>Poodles</li>
     <li>Chihuahua</li>
+    <li>Alaskan Malamute</li>
 </ol>
